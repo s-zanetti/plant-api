@@ -1,0 +1,34 @@
+{
+  "plants": [
+    {
+      "id": "0",
+      "name": "Basil",
+      "nameIta" :"Basilico",
+      "temperature" : "20° - 25°",
+      "watering" : "often",
+      "annaffiatura" : "spesso",
+      "period": "spring",
+      "semina": "primavera"
+    },
+    {
+      "id": "1",
+      "name": "Thyme",
+      "nameIta" :"Timo",
+      "temperature" : "20° - 25°",
+      "watering" : "often",
+      "annaffiatura" : "spesso",
+      "period": "spring",
+      "semina": "primavera"
+    },
+    {
+      "id": "2",
+      "name": "Sage",
+      "nameIta" :"Salvia",
+      "temperature" : "20° - 25°",
+      "watering" : "often",
+      "annaffiatura" : "spesso",
+      "period": "spring",
+      "semina": "primavera"
+    }
+  ]
+}
